@@ -1,0 +1,13 @@
+body {
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  background-color: darkslategray;
+  color: whitesmoke;
+  zoom: 135%;
+}
+h1 {
+  font-size: 3em;
+}
+
+a {
+  color: greenyellow;
+}
